@@ -11,14 +11,16 @@ Original code from Zifan Wang: https://developer.algorand.org/solutions/minibond
 ## Environment Setup
 https://developer.algorand.org/docs/sdks/python/
 
-1) Install Sandbox
+1) Docker Compose https://docs.docker.com/compose/install/
+
+2) Install Sandbox
 ```python
 git clone https://github.com/algorand/sandbox.git
 cd sandbox
 ./sandbox up testnet
 ```
 
-2) Install SDK and other libraries (better to create venv)
+3) Install SDK and other libraries (better to create venv)
 ```python
 cd ..
 cd blockchain_bond
