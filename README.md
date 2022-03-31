@@ -4,7 +4,7 @@ Original code from Zifan Wang: https://developer.algorand.org/solutions/minibond
 
 ## Accounts Setup
 
-1) Create (and fund) the buyer and issuer accounts and issue a payment unit (ussing the issuer accnt) https://www.youtube.com/watch?v=ryk-tKyZUpk
+1) Create (and fund) the buyer and issuer accounts and creat an asset (ussing the issuer accnt) https://www.youtube.com/watch?v=ryk-tKyZUpk
 
 2) Opt-in the buyer accnt to your asset and send the buyer a few units of the asset (will be used as payment)
 
