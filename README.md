@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=tKUvcr9ohTM&t=297s
 mkdir teal
 ```
 
-2) Add your publisher address, publisher pass, issuer address, publisher pass and payment id to the parameter section
+2) Add your publisher address, publisher pass, issuer address, publisher pass and payment id to the parameter section in main_publisher.py
 
 3) Fetch a recent block number and submit it in the closure field: https://testnet.algoexplorer.io/
 
